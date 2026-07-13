@@ -65,6 +65,8 @@ Se creó un usuario específico `admin_VES` con roles restringidos para ejecutar
 
 <img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 192505" src="https://github.com/user-attachments/assets/a5293652-3a45-46fc-9496-370476b9eb0f" />
 
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 192624" src="https://github.com/user-attachments/assets/297461a9-52c3-48e4-a3be-76392ed2b555" />
+
 ### 11. Evidencia de conexión a la base de datos
 
 <img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 190352" src="https://github.com/user-attachments/assets/a82201d1-c701-46ec-88de-84e4db8c18cb" />
