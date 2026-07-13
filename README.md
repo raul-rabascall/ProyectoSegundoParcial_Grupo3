@@ -20,8 +20,7 @@ Es una aplicación de escritorio con interfaz gráfica orientada a gestionar la 
 * Robins Emeli
 
 ### 4. Jornada
-[Matutina / Vespertina - Reemplazar con tu jornada]
-
+Vespertina
 ### 5. Funcionalidades implementadas
 El sistema cumple estrictamente con las operaciones CRUD requeridas:
 * **Ingreso (Create):** Permite registrar nuevos clientes con su cédula, nombre, teléfono, correo y tipo de sala asignada.
@@ -63,16 +62,14 @@ Se utiliza la base de datos relacional **`SAP_VES`**. La información central se
 Se creó un usuario específico `admin_VES` con roles restringidos para ejecutar únicamente transacciones seguras (Insert, Select, Update, Delete) sobre esta tabla.
 
 ### 10. Capturas de pantalla de la GUI
-![Ventana Principal del Sistema](Ruta/A/Tu/Imagen_GUI.png)
-*(Reemplaza el texto entre paréntesis con la ruta de tu captura de pantalla de la ventana)*
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 190352" src="https://github.com/user-attachments/assets/cc2a0b3f-b72b-4939-8cfd-73a6fc02f0f0" />
 
 ### 11. Evidencia de conexión a la base de datos
-![Evidencia de registros en SQL Server](Ruta/A/Tu/Imagen_SQL.png)
-*(Reemplaza el texto entre paréntesis con una captura de SQL Server donde se vean los registros guardados)*
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 192505" src="https://github.com/user-attachments/assets/288a7451-8a3a-4452-a7be-9919fc506acb" />
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 190336" src="https://github.com/user-attachments/assets/b15de1bf-5a00-43e2-a496-11c976a7ad5a" />
 
 ### 12. Enlace al video demostrativo
-[▶️ Clic aquí para ver el video demostrativo en YouTube / Drive]
-*(Asegúrate de pegar el link real aquí, verificar que no supere los 3 minutos y que tenga permisos públicos)*
+*Link Aqui*
 
 ### 13. Explicación breve de las validaciones implementadas
 Para garantizar la integridad de los datos antes de viajar a SQL Server, se implementaron las siguientes validaciones en la capa de servicios:
