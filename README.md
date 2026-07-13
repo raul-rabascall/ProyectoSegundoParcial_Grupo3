@@ -62,10 +62,13 @@ Se utiliza la base de datos relacional **`SAP_VES`**. La información central se
 Se creó un usuario específico `admin_VES` con roles restringidos para ejecutar únicamente transacciones seguras (Insert, Select, Update, Delete) sobre esta tabla.
 
 ### 10. Capturas de pantalla de la GUI
-<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 190352" src="https://github.com/user-attachments/assets/cc2a0b3f-b72b-4939-8cfd-73a6fc02f0f0" />
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 192505" src="https://github.com/user-attachments/assets/a5293652-3a45-46fc-9496-370476b9eb0f" />
 
 ### 11. Evidencia de conexión a la base de datos
-<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 192505" src="https://github.com/user-attachments/assets/288a7451-8a3a-4452-a7be-9919fc506acb" />
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 190352" src="https://github.com/user-attachments/assets/a82201d1-c701-46ec-88de-84e4db8c18cb" />
+
 <img width="1920" height="1080" alt="Captura de pantalla 2026-07-12 190336" src="https://github.com/user-attachments/assets/b15de1bf-5a00-43e2-a496-11c976a7ad5a" />
 
 ### 12. Enlace al video demostrativo
